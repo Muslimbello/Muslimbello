@@ -20,7 +20,7 @@
 ###
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [muslimbello123@gmail.com](mailto:muslimbello123@gmail.com)
-* 🚀  I'm currently working on [Airbnb\_clone console](http://https://github.com/muslimbello/AirBnB_clone)
+* 🚀  I'm currently working on [Airbnb\_clone console](https://github.com/Muslimbello/Personal_Investment_Managment)
 * 🧠  I'm learning Devops and Web servers
 * 🤝  I'm open to collaborating on open source
 
